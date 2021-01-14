@@ -6,3 +6,4 @@
 |Day2|Merge Sort|Leetcode `#88`|`NULL`|
 |Day3|Heap Sort|Leetcode `#192`|`NULL`|
 |Day4|Binary Search Tree|Leetcode `剑指offer#54`二叉搜索树第`k`大节点|`NULL`|
+|Day5|Balanced Binary Tree|Leetcode `#110`|<https://www.youtube.com/watch?v=LU4fGD-fgJQ&list=LL&index=1>
